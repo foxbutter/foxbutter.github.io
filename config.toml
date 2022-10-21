@@ -3,7 +3,7 @@
 # title = 'My New Hugo Site'
 
 title = "我的全新 Hugo FixIt 网站"
-baseURL = "https://www.foxbutter.ml/"
+# baseURL = "https://www.foxbutter.ml/"
 # baseURL = "http://example.org/"
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
 defaultContentLanguage = "zh-cn"
